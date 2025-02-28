@@ -1,4 +1,4 @@
-antropic==0.48.0
+antropic==0.25.7
 google-generativeai==0.5.2
 langchain==0.1.6
 langchain-anthropic==0.1.11
